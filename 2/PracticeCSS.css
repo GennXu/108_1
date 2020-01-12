@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: "微軟正黑體", "標楷體", "新細明體";    
+}
+
+.header{    
+    margin: 0;
+    color: white;
+    background-color:#007799;
+}
+.main_continer {
+    margin: 0;
+    border: 5px;
+}
+.footer{
+    margin: 0;
+    color: white;
+    background-color:#003377;
+}
